@@ -1,2 +1,2 @@
 # markdown-image
-git 图床
+GitHub 图床
